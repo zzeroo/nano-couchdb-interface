@@ -1,0 +1,6 @@
+TODO:
+    - just watch for pdf files
+    - add a config file
+    - parameterize the path of watched dir an file types
+    - an couchdb stuff
+    - add an couchdb buffered attachment
