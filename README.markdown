@@ -9,6 +9,14 @@ First You have to install the dependencies.
     npm install inotify
 
 
+Resources of Information
+--------------------
+
+[node.js](http://nodejs.org/)
+[npm](http://npmjs.org/)
+[nano](https://github.com/dscape/nano)
+
+
 License
 -------
 
